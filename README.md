@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy [Tu Nombre], ¡bienvenido/a a mi perfil de GitHub!
+Soy Valentino Giachero, ¡bienvenido/a a mi perfil de GitHub!
 
 ## 🔧 Tecnologías y herramientas
 
